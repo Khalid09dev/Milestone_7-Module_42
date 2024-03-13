@@ -1,0 +1,58 @@
+    [
+        {
+        "id": "12345",
+        "cover": "https://via.placeholder.com/600x300",
+        "title": "The Secrets of Sustainable Gardening",
+        "author": "Sarah Johnson",
+        "img": "https://i.postimg.cc/xdxfwBJG/Rectangle-1.png",
+        "posted": "March 12, 2024",
+        "date": "2024-03-12", 
+        "reading": "8 min read",
+        "hashtags": ["gardening", "sustainability", "ecofriendly"]
+        },
+        {
+        "id": "67890",
+        "cover": "https://via.placeholder.com/600x300",
+        "title": "Exploring the Art of Minimalist Photography",
+        "author": "Alex Brown",
+        "img": "https://i.postimg.cc/xdxfwBJG/Rectangle-1.png",
+        "posted": "March 10, 2024",
+        "date": "2024-03-10", 
+        "reading": "5 min read",
+        "hashtags": ["photography", "minimalism", "art"] 
+        },
+        {
+        "id": "24680",
+        "cover": "https://via.placeholder.com/600x300",
+        "title": "Mastering the Basics of Watercolor Painting",
+        "author": "Emily Parker",
+        "img": "https://i.postimg.cc/xdxfwBJG/Rectangle-1.png",
+        "posted": "March 8, 2024",
+        "date": "2024-03-08", 
+        "reading": "12 min read",
+        "hashtags": ["watercolor", "painting", "arttutorial"]  
+        },
+        {
+        "id": "35791",
+        "cover": "https://via.placeholder.com/600x300",
+        "title": "Travel on a Budget: Tips and Tricks",
+        "author": "Ryan Miller",
+        "img": "https://i.postimg.cc/xdxfwBJG/Rectangle-1.png",
+        "posted": "March 6, 2024",
+        "date": "2024-03-06", 
+        "reading": "7 min read",
+        "hashtags": ["travel", "budgettravel", "adventure"]  
+        },
+        {
+        "id": "46802",
+        "cover": "https://via.placeholder.com/600x300",
+        "title": "Understanding the Benefits of Meditation",
+        "author": "Isabella Davis",
+        "img": "https://i.postimg.cc/xdxfwBJG/Rectangle-1.png",
+        "posted": "March 4, 2024",
+        "date": "2024-03-04", 
+        "reading": "6 min read",
+        "hashtags": ["meditation", "mindfulness", "wellness"]  
+        }
+    ]
+    
